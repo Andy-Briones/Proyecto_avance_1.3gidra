@@ -1,0 +1,6 @@
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\bin\Release\Clases.dll
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\bin\Release\Clases.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Release\Clases.csproj.AssemblyReference.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Release\Clases.csproj.CoreCompileInputs.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Release\Clases.dll
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Release\Clases.pdb

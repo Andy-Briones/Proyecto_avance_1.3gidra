@@ -1,0 +1,30 @@
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\ejecucion.exe.config
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\ejecucion.exe
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\ejecucion.pdb
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\Clases.dll
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\Clases.pdb
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.SuggestedBindingRedirects.cache
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.Form1.resources
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.Form2.resources
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.Properties.Resources.resources
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.GenerateResource.cache
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.CopyComplete
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.exe
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\ejecucion.exe.config
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\ejecucion.exe
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\ejecucion.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\Clases.dll
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Debug\Clases.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.AssemblyReference.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.exe.config
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.Form1.resources
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.Form2.resources
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.Properties.Resources.resources
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.GenerateResource.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.CoreCompileInputs.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.csproj.Up2Date
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.exe
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Debug\ejecucion.pdb

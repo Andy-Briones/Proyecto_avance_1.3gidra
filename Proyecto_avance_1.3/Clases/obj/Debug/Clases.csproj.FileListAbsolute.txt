@@ -1,0 +1,12 @@
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\Clases\bin\Debug\Clases.dll
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\Clases\bin\Debug\Clases.pdb
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.dll
+C:\Users\AMD\Desktop\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\bin\Debug\Clases.dll
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\bin\Debug\Clases.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.csproj.AssemblyReference.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.dll
+F:\Ciclo 5\C#\Proyecto_avance_1.3\Clases\obj\Debug\Clases.pdb

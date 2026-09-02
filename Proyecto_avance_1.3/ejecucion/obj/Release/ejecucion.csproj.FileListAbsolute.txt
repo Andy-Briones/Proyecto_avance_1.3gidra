@@ -1,0 +1,14 @@
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Release\ejecucion.exe.config
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Release\ejecucion.exe
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Release\ejecucion.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Release\Clases.dll
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\bin\Release\Clases.pdb
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.csproj.AssemblyReference.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.Form1.resources
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.Form2.resources
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.Properties.Resources.resources
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.csproj.GenerateResource.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.csproj.CoreCompileInputs.cache
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.csproj.Up2Date
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.exe
+F:\Ciclo 5\C#\Proyecto_avance_1.3\ejecucion\obj\Release\ejecucion.pdb
